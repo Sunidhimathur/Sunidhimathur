@@ -13,10 +13,14 @@ Keen Learner. Wanna be a Front-End Web Developer. Looking for further opportunit
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunidhimathur" alt="sunidhimathur" /></a> </p>
 
 - 🔭 I’m currently working as **CSI Core team Member at SRM-NCR**
+  
+- 🌱 I’m currently learning **React, Nodejs, Django**
 
 - 👯 I’m looking to collaborate in **Front-End Web Development**
-
+  
 - 👨‍💻 All of my projects are available at [https://sunidhimathur.github.io/TCR-Innovation-Final-Project-Portfolio-website-/](https://sunidhimathur.github.io/TCR-Innovation-Final-Project-Portfolio-website-/)
+  
+- 💬 Ask me about **HTML, CSS, JavaScript, jQuery, Python, Operating Systems, Computer Networks**
 
 - 📫 How to reach me **nidhiskr2014@gmail.com**
 
