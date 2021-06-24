@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nidhi</h1>
+<img src="Web dev.jpeg" align="center" alt="image">
 <h3 align="center">An enthusiastic fresher with highly motivated and leadership skills having bachelors of engineering degree in Computer Science & Engineering at SRMIST Delhi-NCR Campus, Ghaziabad.
 Highly motivated and eager to learn new things. Always willing to innovate the new things which can improve the existing technology.
 I am passionate about Front-End Web Development and a Graphic-Web Designer. Also interested in Full Stack Web Development.</h3>
