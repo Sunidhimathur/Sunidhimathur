@@ -25,7 +25,7 @@ Keen Learner. Wanna be a Front-End Web Developer. Looking for further opportunit
 
 - 📫 How to reach me **nidhiskr2014@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v3XxdxlpGDc8kXoK7Q8HucJ-zMky0irM/view?usp=sharing](https://drive.google.com/file/d/1v3XxdxlpGDc8kXoK7Q8HucJ-zMky0irM/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1X9FAlwVKuC9-bHMkA40IyQCMyBGw0U3q/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
