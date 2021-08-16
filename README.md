@@ -25,7 +25,7 @@ Keen Learner. Wanna be a Front-End Web Developer. Looking for further opportunit
 
 - 📫 How to reach me **nidhiskr2014@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1WNIDjlisLnsWNu4dKdm2xM3WOEBkYsXp/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1E1p2UaoUpcV5G3OEkp2_R8LaQDJOIJyu/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/nidhimathur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nidhimathur" height="30" width="40" /></a>
