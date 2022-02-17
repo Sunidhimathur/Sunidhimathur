@@ -13,7 +13,7 @@ Keen Learner. Wanna be a Front-End Web Developer. Looking for further opportunit
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunidhimathur" alt="sunidhimathur" /></a> </p>
 
-- 🔭 I’m currently working as **CSI Core team Member at SRM-NCR**
+- 🔭 I’m currently working as **Google Developer Student Clubs (GDSC) Core team Member at SRM-NCR**
   
 - 🌱 I’m currently learning **React, Nodejs, Django**
 
@@ -24,6 +24,8 @@ Keen Learner. Wanna be a Front-End Web Developer. Looking for further opportunit
 - 💬 Ask me about **HTML, CSS, JavaScript, C++, Python, Operating Systems, Data structures and Algorithms, Computer Networks**
 
 - 📫 How to reach me **nidhiskr2014@gmail.com**
+  
+- 🌱 Graphic-Web Designing work [https://www.behance.net/nidhimathur2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
