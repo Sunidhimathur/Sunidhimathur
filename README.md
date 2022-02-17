@@ -21,11 +21,12 @@ Keen Learner. Wanna be a Front-End Web Developer. Looking for further opportunit
   
 - 👨‍💻 All of my projects are available at [https://sunidhimathur.github.io/TCR-Innovation-Final-Project-Portfolio-website-/](https://sunidhimathur.github.io/TCR-Innovation-Final-Project-Portfolio-website-/)
   
+- 🌱 Graphic-Web Designing work https://www.behance.net/nidhimathur2
+  
 - 💬 Ask me about **HTML, CSS, JavaScript, C++, Python, Operating Systems, Data structures and Algorithms, Computer Networks**
 
 - 📫 How to reach me **nidhiskr2014@gmail.com**
   
-- 🌱 Graphic-Web Designing work [https://www.behance.net/nidhimathur2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
