@@ -30,13 +30,11 @@ Keen Learner. Wanna be a Front-End Web Developer. Looking for further opportunit
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/nidhimathur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nidhimathur" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nidhi-mathur-9093681ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nidhi-mathur-9093681ab" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100063593402086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100063593402086" height="30" width="40" /></a>
 <a href="https://instagram.com/sunidhimathur_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sunidhimathur" height="30" width="40" /></a>
 <a href="https://www.behance.net/nidhimathur2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nidhimathur2" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nidhiskr2014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nidhiskr2014" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nidhimathur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nidhimathur" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nidhiskr2014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nidhiskr2014" height="30" width="40" /></a>
 </p>
 
