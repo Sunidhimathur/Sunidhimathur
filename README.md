@@ -15,7 +15,7 @@ Keen Learner. Wanna be a Front-End Web Developer. Looking for further opportunit
 
 - 🔭 I’m currently working as **Google Developer Student Clubs (GDSC) Core team Member at SRM-NCR**
   
-- 🌱 I’m currently learning **React, Nodejs, Django**
+- 🌱 I’m currently learning **React, Nodejs, Flask**
 
 - 👯 I’m looking to collaborate in **Front-End Web Development**
   
