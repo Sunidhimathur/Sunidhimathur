@@ -23,7 +23,7 @@ Keen Learner. Wanna be a Front-End Web Developer. Looking for further opportunit
   
 - 🖼️ My Graphic-Web Designing work https://www.behance.net/nidhimathur2
   
-- 💬 Ask me about **HTML, CSS, JavaScript, C++, Python, Operating Systems, Data structures and Algorithms, Computer Networks**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React.js, DBMS, C++ Language, Web Development, Graphic Design,  Adobe Photoshop, Adobe Illustrator**
 
 - 📫 How to reach me **nidhiskr2014@gmail.com**
   
